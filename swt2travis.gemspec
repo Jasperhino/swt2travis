@@ -8,12 +8,12 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jasper"]
   spec.email         = ["blum.jasper@student.hpi.de"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.summary       = %q{Short summary}
+  spec.description   = %q{longer description or delete this line.}
   spec.homepage      = "https://github.com/Jasperhino/swt2travis"
   spec.license       = "MIT"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
+  spec.metadata["allowed_push_host"] = "http://mygemserver.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = spec.homepage
